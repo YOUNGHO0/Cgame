@@ -18,3 +18,15 @@ printf("방향키 상하 (↑,↓) : 사다리에서 송박이가 상하로 움�
 printf("스페이스 바 (Space Bar) : 송박이의 비장의 무기 은신 ! ");
 
  ```
+
+## 게임 이미지
+
+### 게임 설명
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/2153fe02-327a-4e9d-9b98-c744f7ec70e9">
+
+
+### 게임 플레이 화면
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/0c4407c7-ba6e-49ae-8b68-4f4bbfc242a2">
+
+
+
